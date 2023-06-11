@@ -1,2 +1,2 @@
-# Game X0
+# Game_X0
 Standard game
