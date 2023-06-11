@@ -1,2 +1,2 @@
-# Tic-tac-toe
+# Game X0
 Standard game
